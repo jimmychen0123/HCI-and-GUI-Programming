@@ -1,0 +1,9 @@
+.root{
+  -fx-base: rgba(132, 145, 47);
+  -fx-background: rgb(225,228,203);
+}
+.button{
+  -fx-background-color: green;
+  -fx-text-fill: black;
+  -fx-font-size:14;
+}
