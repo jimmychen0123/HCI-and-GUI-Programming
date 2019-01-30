@@ -1,0 +1,14 @@
+.root{
+  -fx-base: rgba(2541, 241, 241);
+  -fx-background: rgb(252,237,211);
+}
+.button{
+  -fx-background-color: GhostWhite;
+  -fx-text-fill: black;
+  -fx-font-size:14;
+}
+
+.button:hover{
+  -fx-background-color: LightGrey;
+
+}
